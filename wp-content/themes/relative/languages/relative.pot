@@ -1,0 +1,1521 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Relative\n"
+"POT-Creation-Date: 2018-06-04 20:40-0700\n"
+"PO-Revision-Date: 2018-06-04 11:56-0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:15
+msgid "Error 404"
+msgstr ""
+
+#: 404.php:20
+msgid ""
+"It seems like you have tried to open a page that doesn't exist. It could "
+"have been deleted, moved, or it never existed at all. You are welcome to "
+"search for what you are looking for with the form below."
+msgstr ""
+
+#. translators: 1: title.
+#: comments.php:34
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:40
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:28
+msgid "Copyright &copy;"
+msgstr ""
+
+#: footer.php:29
+msgid "Y"
+msgstr ""
+
+#: footer.php:30
+msgid "All rights reserved."
+msgstr ""
+
+#: functions.php:75
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:76 template-parts/navigation/navigation-social.php:9
+msgid "Social Menu"
+msgstr ""
+
+#: functions.php:77
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:153
+msgctxt "Muli font: on or off"
+msgid "on"
+msgstr ""
+
+#: header.php:26
+msgid "Skip to content"
+msgstr ""
+
+#: image.php:47
+msgid "Previous Image"
+msgstr ""
+
+#: image.php:48
+msgid "Next Image"
+msgstr ""
+
+#: inc/customizer.php:36 inc/theme-info/relative-info.php:125
+msgid "Relative Pro"
+msgstr ""
+
+#: inc/customizer.php:37
+msgid ""
+"Opt in for the pro version of Relative and enjoy many additional features "
+"that will add more options. Here is a sample of what you will get:"
+msgstr ""
+
+#: inc/customizer.php:38
+msgid "Pro Features:"
+msgstr ""
+
+#: inc/customizer.php:40
+msgid "&bull; 9 Blog Styles"
+msgstr ""
+
+#: inc/customizer.php:41
+msgid "&bull; 21 Sidebar Positions"
+msgstr ""
+
+#: inc/customizer.php:42
+msgid "&bull; Custom Styled WooCommerce"
+msgstr ""
+
+#: inc/customizer.php:43
+msgid "&bull; Thumbnail Creation for the Blogs"
+msgstr ""
+
+#: inc/customizer.php:44
+msgid "&bull; Added Features for the Featured Post Slider"
+msgstr ""
+
+#: inc/customizer.php:45
+msgid "&bull; About Author Widget"
+msgstr ""
+
+#: inc/customizer.php:46
+msgid "&bull; Image Box Widget with Overlay"
+msgstr ""
+
+#: inc/customizer.php:47
+msgid "&bull; Icon Box Widget with Content"
+msgstr ""
+
+#: inc/customizer.php:48
+msgid "&bull; Custom Page Title Headings with Background Image"
+msgstr ""
+
+#: inc/customizer.php:49
+msgid "&bull; Choice of FontAwesome Icons v4 or v5"
+msgstr ""
+
+#: inc/customizer.php:50
+msgid "&bull; Add More Google Fonts"
+msgstr ""
+
+#: inc/customizer.php:51
+msgid "&bull; Typography Options"
+msgstr ""
+
+#: inc/customizer.php:52
+msgid "&bull; Custom Styled Archive Titles"
+msgstr ""
+
+#: inc/customizer.php:53
+msgid "&bull; Premium Support"
+msgstr ""
+
+#: inc/customizer.php:56
+msgid "Get the Pro"
+msgstr ""
+
+#: inc/customizer.php:119
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: inc/customizer.php:129
+msgid "Get The Pro Version:"
+msgstr ""
+
+#: inc/customizer.php:136 inc/theme-info/relative-info.php:241
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer.php:147
+msgid "Boxed Layout"
+msgstr ""
+
+#: inc/customizer.php:150
+msgid "Full Width"
+msgstr ""
+
+#: inc/customizer.php:151
+msgid "Boxed 1800px Width"
+msgstr ""
+
+#: inc/customizer.php:152
+msgid "Boxed 1600px Width"
+msgstr ""
+
+#: inc/customizer.php:153
+msgid "Boxed 1400px Width"
+msgstr ""
+
+#: inc/customizer.php:163
+msgid "Blog Style"
+msgstr ""
+
+#: inc/customizer.php:166
+msgid "Medium With Right Sidebar"
+msgstr ""
+
+#: inc/customizer.php:167
+msgid "Medium With Left Sidebar"
+msgstr ""
+
+#: inc/customizer.php:168
+msgid "Grid With No Sidebar"
+msgstr ""
+
+#: inc/customizer.php:169
+msgid "Grid With Left Sidebar"
+msgstr ""
+
+#: inc/customizer.php:170
+msgid "Grid With Right Sidebar"
+msgstr ""
+
+#: inc/customizer.php:180
+msgid "Full Post Style"
+msgstr ""
+
+#: inc/customizer.php:183
+msgid "Single With Right Sidebar"
+msgstr ""
+
+#: inc/customizer.php:184
+msgid "Single With Left Sidebar"
+msgstr ""
+
+#: inc/customizer.php:185
+msgid "Single With No Sidebars"
+msgstr ""
+
+#: inc/customizer.php:195
+msgid "Use Excerpts"
+msgstr ""
+
+#: inc/customizer.php:196
+msgid ""
+"Use excerpts for your blog post summaries or uncheck the box to use the "
+"standard Read More tag. NOTE: Some blog styles only use excerpts."
+msgstr ""
+
+#: inc/customizer.php:208
+msgid "Excerpt Size"
+msgstr ""
+
+#: inc/customizer.php:209
+msgid ""
+"You can change the size of your blog summary excerpts with increments of 5 "
+"words."
+msgstr ""
+
+#: inc/customizer.php:224
+msgid "Use FontAwesome 4"
+msgstr ""
+
+#: inc/customizer.php:225
+msgid ""
+"This is enabled by default, but if you are using a Font Awesome plugin, you "
+"should disable this feature."
+msgstr ""
+
+#: inc/customizer.php:236
+msgid "Show the Full Post Footer Group"
+msgstr ""
+
+#: inc/customizer.php:237
+msgid ""
+"This lets you show or hide the full post footer group that includes the meta "
+"info, post nav, categories and tags list."
+msgstr ""
+
+#: inc/customizer.php:247
+msgid "Show the Featured Post Icon"
+msgstr ""
+
+#: inc/customizer.php:248
+msgid ""
+"This lets you show or hide the featured post sticky icon next to the post "
+"title."
+msgstr ""
+
+#: inc/customizer.php:258
+msgid "Show the Post Summary Meta Info"
+msgstr ""
+
+#: inc/customizer.php:259
+msgid ""
+"This lets you show the post summary meta info such as date, author, "
+"comments, etc."
+msgstr ""
+
+#: inc/customizer.php:270
+msgid "Show the Full Post Featured Image"
+msgstr ""
+
+#: inc/customizer.php:271
+msgid "This lets you show or hide the full post featured image."
+msgstr ""
+
+#: inc/customizer.php:282
+msgid "Show the Full Post Meta Info"
+msgstr ""
+
+#: inc/customizer.php:283
+msgid ""
+"This lets you show the full post meta information like date, author, etc."
+msgstr ""
+
+#: inc/customizer.php:294
+msgid "Show the Post Navigation"
+msgstr ""
+
+#: inc/customizer.php:295
+msgid ""
+"This lets you show the Next and Previous post navigation on the full post "
+"view."
+msgstr ""
+
+#: inc/customizer.php:306
+msgid "Show the Full Post Tags List"
+msgstr ""
+
+#: inc/customizer.php:307
+msgid "This lets you show the post tags section on the full post."
+msgstr ""
+
+#: inc/customizer.php:319
+msgid "Show the Related Posts Section"
+msgstr ""
+
+#: inc/customizer.php:320
+msgid "This lets you show the related posts section on the full article view."
+msgstr ""
+
+#: inc/customizer.php:331
+msgid "Featured Bottom Sidebars Full"
+msgstr ""
+
+#: inc/customizer.php:332
+msgid ""
+"This lets you change the Featured Bottom widgets to go full width and no "
+"spaces."
+msgstr ""
+
+#: inc/customizer.php:343
+msgid "Show Full Post Dropcap"
+msgstr ""
+
+#: inc/customizer.php:344
+msgid ""
+"This lets you show the drop cap style on the first letter of the first "
+"paragraph."
+msgstr ""
+
+#: inc/customizer.php:355
+msgid "Enable FrontPage Template Options"
+msgstr ""
+
+#: inc/customizer.php:356
+msgid ""
+"This lets you enable the Front Page template sidebar and customizer settings."
+msgstr ""
+
+#: inc/customizer.php:369
+msgid "Related Posts Displayed From:"
+msgstr ""
+
+#: inc/customizer.php:373
+msgid "Related Posts By Categories"
+msgstr ""
+
+#: inc/customizer.php:374
+msgid "Related Posts By Tags"
+msgstr ""
+
+#: inc/customizer.php:385
+msgid "Your Copyright Name"
+msgstr ""
+
+#: inc/customizer.php:393
+msgid "Top Bar Options"
+msgstr ""
+
+#: inc/customizer.php:404
+msgid "Show Top Bar"
+msgstr ""
+
+#: inc/customizer.php:414
+msgid "Show Top Bar Left"
+msgstr ""
+
+#: inc/customizer.php:424
+msgid "Show Top Bar Center"
+msgstr ""
+
+#: inc/customizer.php:435
+msgid "Show Top Bar Social Menu"
+msgstr ""
+
+#: inc/customizer.php:446
+msgid "Top Bar Left"
+msgstr ""
+
+#: inc/customizer.php:457
+msgid "Top Bar Center"
+msgstr ""
+
+#: inc/customizer.php:464
+msgid "Thumbnail Options"
+msgstr ""
+
+#: inc/customizer.php:475
+msgid "Create Thumbnails for Blog 1 &amp; 2"
+msgstr ""
+
+#: inc/customizer.php:476
+msgid ""
+"This will create featured images for the blog 1 and 2 styled layouts. Size = "
+"775 x 400 pixels."
+msgstr ""
+
+#: inc/customizer.php:487
+msgid "Create Thumbnails for Blog 4, 5, &amp; 6"
+msgstr ""
+
+#: inc/customizer.php:488
+msgid ""
+"This will create featured images for the blog grid 4, 5, and 6 styled "
+"layouts. Size = 500 x 400 pixels."
+msgstr ""
+
+#: inc/customizer.php:501
+msgid "Show Gradient Background"
+msgstr ""
+
+#: inc/customizer.php:502
+msgid ""
+"This lets you show the gradient background for the page top bar and bottom "
+"widget area instead of a solid colour. If you want to use colour, uncheck "
+"this box."
+msgstr ""
+
+#: inc/customizer.php:513
+msgid "Top Bar Background"
+msgstr ""
+
+#: inc/customizer.php:524
+msgid "Body Text Colour"
+msgstr ""
+
+#: inc/customizer.php:535
+msgid "Header Background Colour"
+msgstr ""
+
+#: inc/customizer.php:546
+msgid "Site Title Colour"
+msgstr ""
+
+#: inc/customizer.php:556
+msgid "Site Description Colour"
+msgstr ""
+
+#: inc/customizer.php:568
+msgid "Link Colour"
+msgstr ""
+
+#: inc/customizer.php:580
+msgid "Mobile Menu Toggle Background"
+msgstr ""
+
+#: inc/customizer.php:590
+msgid "Mobile Menu Toggle Elements"
+msgstr ""
+
+#: inc/customizer.php:600
+msgid "Mobile Menu Item"
+msgstr ""
+
+#: inc/customizer.php:611
+msgid "Mobile Menu Item Hover Background"
+msgstr ""
+
+#: inc/customizer.php:622
+msgid "Main Menu Item"
+msgstr ""
+
+#: inc/customizer.php:633
+msgid "Main Menu Submenu Background"
+msgstr ""
+
+#: inc/customizer.php:644
+msgid "Main Menu Submenu Text"
+msgstr ""
+
+#: inc/customizer.php:655
+msgid "Main Menu Active Item"
+msgstr ""
+
+#: inc/customizer.php:656
+msgid "This is the colour of the menu item line when active or hover"
+msgstr ""
+
+#: inc/customizer.php:667
+msgid "Social Menu Icon"
+msgstr ""
+
+#: inc/customizer.php:679
+msgid "Breadcrumbs Text Colour"
+msgstr ""
+
+#: inc/customizer.php:690
+msgid "Pagination Hover &amp; Active Background"
+msgstr ""
+
+#: inc/customizer.php:701
+msgid "Pagination Hover &amp; Active Text"
+msgstr ""
+
+#: inc/customizer.php:712
+msgid "Content Column Lines"
+msgstr ""
+
+#: inc/customizer.php:713
+msgid ""
+"This is for the top line colour to the content, left, and right columns."
+msgstr ""
+
+#: inc/customizer.php:724
+msgid "Sidebar Widget Titles"
+msgstr ""
+
+#: inc/customizer.php:725
+msgid "This is your widget title colour."
+msgstr ""
+
+#: inc/customizer.php:736
+msgid "Sidebar Widget Title Line"
+msgstr ""
+
+#: inc/customizer.php:737 inc/customizer.php:749
+msgid "This is your widget title line colour."
+msgstr ""
+
+#: inc/customizer.php:748
+msgid "Bottom Sidebar Widget Title Line"
+msgstr ""
+
+#: inc/customizer.php:760
+msgid "Content Headings"
+msgstr ""
+
+#: inc/customizer.php:771
+msgid "Post Summary Featured Label"
+msgstr ""
+
+#: inc/customizer.php:782
+msgid "Bottom Sidebar Area Background"
+msgstr ""
+
+#: inc/customizer.php:783
+msgid ""
+"This is the background colour for your bottom sidebar widget group just "
+"above the footer."
+msgstr ""
+
+#: inc/customizer.php:793
+msgid "Bottom Sidebar Text"
+msgstr ""
+
+#: inc/customizer.php:794
+msgid ""
+"This is the text and link colour for your bottom sidebar widget group just "
+"above the footer."
+msgstr ""
+
+#: inc/customizer.php:805
+msgid "Related Posts Background"
+msgstr ""
+
+#: inc/customizer.php:815
+msgid "Related Posts Border"
+msgstr ""
+
+#: inc/customizer.php:826
+msgid "Related Posts Titles"
+msgstr ""
+
+#: inc/customizer.php:838
+msgid "Full Post Nav Background"
+msgstr ""
+
+#: inc/customizer.php:848
+msgid "Full Post Nav Text"
+msgstr ""
+
+#: inc/customizer.php:859
+msgid "Footer Background Colour"
+msgstr ""
+
+#: inc/customizer.php:870
+msgid "Footer Text &amp; Link Colour"
+msgstr ""
+
+#: inc/customizer.php:871
+msgid ""
+"This will set the colour for your footer text, link, and social icon colours"
+msgstr ""
+
+#: inc/customizer.php:882
+msgid "Dropcap Letter Colour"
+msgstr ""
+
+#: inc/customizer.php:894
+msgid "Image Viewer Background"
+msgstr ""
+
+#: inc/customizer.php:905
+msgid "Button Background"
+msgstr ""
+
+#: inc/customizer.php:916
+msgid "Button Hover Background"
+msgstr ""
+
+#: inc/customizer.php:928
+msgid "Button Text"
+msgstr ""
+
+#: inc/customizer.php:939
+msgid "Text Select Background"
+msgstr ""
+
+#: inc/customizer.php:949
+msgid "Text Select Text Colour"
+msgstr ""
+
+#: inc/customizer.php:957
+msgid "Slider Options"
+msgstr ""
+
+#: inc/customizer.php:969
+msgid "Show Slider"
+msgstr ""
+
+#: inc/customizer.php:970
+msgid "This lets you show the post slider on the front page of your website."
+msgstr ""
+
+#: inc/customizer.php:982
+msgid "Choose a category"
+msgstr ""
+
+#: inc/customizer.php:983
+msgid ""
+"Choose your category to load slides from. Make sure your posts have featured "
+"images and we recommend also that you create a special category just for "
+"featured slide posts."
+msgstr ""
+
+#: inc/customizer.php:996
+msgid "Limit posts"
+msgstr ""
+
+#: inc/customizer.php:997
+msgid ""
+"This lets you select how many slides to show where -1 is all and any number "
+"above 0 will show based on what you select."
+msgstr ""
+
+#: inc/customizer.php:1006
+msgid "Front Page Template"
+msgstr ""
+
+#: inc/customizer.php:1007
+msgid ""
+"Find front page template options here such as slider settings, icon boxes, "
+"etc."
+msgstr ""
+
+#: inc/customizer.php:1014
+msgid "Icon Boxes"
+msgstr ""
+
+#: inc/customizer.php:1025
+msgid "Show the Icon Boxes Section"
+msgstr ""
+
+#: inc/customizer.php:1026
+msgid "Check this box to show the image boxes section."
+msgstr ""
+
+#: inc/customizer.php:1037
+msgid "Icon Box 1 Icon"
+msgstr ""
+
+#: inc/customizer.php:1048
+msgid "Icon Box 2 Icon"
+msgstr ""
+
+#: inc/customizer.php:1059
+msgid "Icon Box 3 Icon"
+msgstr ""
+
+#: inc/customizer.php:1070
+msgid "Icon Box 1 Title"
+msgstr ""
+
+#: inc/customizer.php:1081
+msgid "Icon Box 2 Title"
+msgstr ""
+
+#: inc/customizer.php:1092
+msgid "Icon Box 3 Title"
+msgstr ""
+
+#: inc/customizer.php:1105
+msgid "IconBox 1 Intro"
+msgstr ""
+
+#: inc/customizer.php:1106 inc/customizer.php:1118 inc/customizer.php:1130
+msgid "This lets you add a small intro to your icon box."
+msgstr ""
+
+#: inc/customizer.php:1117
+msgid "IconBox 2 Intro"
+msgstr ""
+
+#: inc/customizer.php:1129
+msgid "IconBox 3 Intro"
+msgstr ""
+
+#: inc/customizer.php:1140
+msgid "Iconbox 1 Background"
+msgstr ""
+
+#: inc/customizer.php:1151
+msgid "Iconbox 2 Background"
+msgstr ""
+
+#: inc/customizer.php:1162
+msgid "Iconbox 3 Background"
+msgstr ""
+
+#: inc/customizer.php:1173
+msgid "Iconbox 1 Icon Colour"
+msgstr ""
+
+#: inc/customizer.php:1184
+msgid "Iconbox 2 Icon Colour"
+msgstr ""
+
+#: inc/customizer.php:1195
+msgid "Iconbox 3 Icon Colour"
+msgstr ""
+
+#: inc/customizer.php:1207
+msgid "Iconbox 1 Icon Background"
+msgstr ""
+
+#: inc/customizer.php:1218
+msgid "Iconbox 2 Icon Background"
+msgstr ""
+
+#: inc/customizer.php:1229
+msgid "Iconbox 3 Icon Background"
+msgstr ""
+
+#: inc/customizer.php:1240
+msgid "Iconbox 1 Text Colour"
+msgstr ""
+
+#: inc/customizer.php:1251
+msgid "Iconbox 2 Text Colour"
+msgstr ""
+
+#: inc/customizer.php:1262
+msgid "Iconbox 3 Text Colour"
+msgstr ""
+
+#: inc/customizer.php:1276
+msgid "Icon Box 1 Button Label"
+msgstr ""
+
+#: inc/customizer.php:1288
+msgid "Icon Box 2 Button Label"
+msgstr ""
+
+#: inc/customizer.php:1300
+msgid "Icon Box 3 Button Label"
+msgstr ""
+
+#: inc/customizer.php:1311
+msgid "Icon Box 1 Link"
+msgstr ""
+
+#: inc/customizer.php:1322
+msgid "Icon Box 2 Link"
+msgstr ""
+
+#: inc/customizer.php:1333
+msgid "Icon Box 3 Link"
+msgstr ""
+
+#: inc/customizer.php:1343
+msgid "Front Page Iconbox Button"
+msgstr ""
+
+#: inc/customizer.php:1354
+msgid "Front Page Iconbox Button Label"
+msgstr ""
+
+#: inc/customizer.php:1361
+msgid "Front Page Blog"
+msgstr ""
+
+#: inc/customizer.php:1373
+msgid "Front Page Blog Section Heading"
+msgstr ""
+
+#: inc/customizer.php:1384
+msgid "Blog Post Count"
+msgstr ""
+
+#: inc/customizer.php:1385
+msgid ""
+"This lets you select how many posts to display on your custom front page "
+"template."
+msgstr ""
+
+#: inc/customizer.php:1397
+msgid "Front Page Blog Excerpt Size"
+msgstr ""
+
+#: inc/customizer.php:1398
+msgid ""
+"This lets you choose the excerpt size for your front page template blog "
+"section."
+msgstr ""
+
+#: inc/customizer.php:1408
+msgid "Front Page Read More Background"
+msgstr ""
+
+#: inc/customizer.php:1419
+msgid "Front Page Read More Hover Background"
+msgstr ""
+
+#: inc/customizer.php:1430
+msgid "Front Page Read More Label"
+msgstr ""
+
+#: inc/related-posts.php:12
+msgid "You may also like these posts:"
+msgstr ""
+
+#: inc/related-posts.php:31
+msgid "related-post"
+msgstr ""
+
+#: inc/sidebars.php:9
+msgid "Blog Right Sidebar"
+msgstr ""
+
+#: inc/sidebars.php:11
+msgid "Right sidebar for the blog"
+msgstr ""
+
+#: inc/sidebars.php:18
+msgid "Blog Left Sidebar"
+msgstr ""
+
+#: inc/sidebars.php:20
+msgid "Left sidebar for the blog"
+msgstr ""
+
+#: inc/sidebars.php:27
+msgid "Page Right Sidebar"
+msgstr ""
+
+#: inc/sidebars.php:29
+msgid "Right sidebar for pages"
+msgstr ""
+
+#: inc/sidebars.php:36
+msgid "Page Left Sidebar"
+msgstr ""
+
+#: inc/sidebars.php:38
+msgid "Left sidebar for pages"
+msgstr ""
+
+#: inc/sidebars.php:46
+msgid "Banner"
+msgstr ""
+
+#: inc/sidebars.php:48
+msgid "For Images and Sliders."
+msgstr ""
+
+#: inc/sidebars.php:56
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/sidebars.php:58
+msgid ""
+"For adding breadcrumb navigation if using a plugin, or you can add content "
+"here."
+msgstr ""
+
+#: inc/sidebars.php:66
+msgid "Featured Bottom 1"
+msgstr ""
+
+#: inc/sidebars.php:68
+msgid "Featured Bottom 1 position"
+msgstr ""
+
+#: inc/sidebars.php:75
+msgid "Featured Bottom 2"
+msgstr ""
+
+#: inc/sidebars.php:77
+msgid "Featured Bottom 2 position"
+msgstr ""
+
+#: inc/sidebars.php:84
+msgid "Featured Bottom 3"
+msgstr ""
+
+#: inc/sidebars.php:86
+msgid "Featured Bottom 3 position"
+msgstr ""
+
+#: inc/sidebars.php:93
+msgid "Featured Bottom 4"
+msgstr ""
+
+#: inc/sidebars.php:95
+msgid "Featured Bottom 4 position"
+msgstr ""
+
+#: inc/sidebars.php:103
+msgid "Bottom 1"
+msgstr ""
+
+#: inc/sidebars.php:105
+msgid "Bottom 1 position"
+msgstr ""
+
+#: inc/sidebars.php:112
+msgid "Bottom 2"
+msgstr ""
+
+#: inc/sidebars.php:114
+msgid "Bottom 2 position"
+msgstr ""
+
+#: inc/sidebars.php:121
+msgid "Bottom 3"
+msgstr ""
+
+#: inc/sidebars.php:123
+msgid "Bottom 3 position"
+msgstr ""
+
+#: inc/sidebars.php:130
+msgid "Bottom 4"
+msgstr ""
+
+#: inc/sidebars.php:132
+msgid "Bottom 4 position"
+msgstr ""
+
+#: inc/sidebars.php:140
+msgid "Front Page Sidebar"
+msgstr ""
+
+#: inc/sidebars.php:142
+msgid "This is a sidebar column for your front page template."
+msgstr ""
+
+#: inc/sidebars.php:150
+msgid "Post Inset"
+msgstr ""
+
+#: inc/sidebars.php:152
+msgid ""
+"This is a sidebar position that sits below your post or page content but "
+"above comments. Perfect for small banners or a newsletter signup widget."
+msgstr ""
+
+#: inc/template-functions.php:49 inc/template-functions.php:74
+msgid "Continue reading"
+msgstr ""
+
+#. translators: %s: post date
+#: inc/template-tags.php:30 inc/template-tags.php:87 inc/template-tags.php:166
+#: inc/template-tags.php:231
+#, php-format
+msgid "<span class=\"screen-reader-text\">Posted on</span> %s"
+msgstr ""
+
+#. translators: %s: post title
+#: inc/template-tags.php:43 inc/template-tags.php:101 inc/template-tags.php:179
+#: inc/template-tags.php:267
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:68
+msgid "<span class=\"update-label\">Updated</span>"
+msgstr ""
+
+#. translators: %s: post author.
+#: inc/template-tags.php:81 inc/template-tags.php:159
+#, php-format
+msgctxt "post author"
+msgid "By %s"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:120 inc/template-tags.php:197
+#: template-parts/page/content-page.php:41
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/template-tags.php:246
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:249
+#, php-format
+msgid "Categories - %1$s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:254
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:257
+#, php-format
+msgid "Tagged - %1$s"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:295
+#, php-format
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/theme-info/relative-info-class-about.php:155
+msgid "Dismiss this notice."
+msgstr ""
+
+#: inc/theme-info/relative-info-class-about.php:537
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: inc/theme-info/relative-info-class-about.php:540
+msgid "You do not have the necessary permission to perform this action."
+msgstr ""
+
+#. translators: %1$s: menu title under appearance
+#. translators: %1$s: page name
+#: inc/theme-info/relative-info.php:23 inc/theme-info/relative-info.php:25
+#, php-format
+msgid "About %1$s"
+msgstr ""
+
+#. translators: %1$s: welcome title
+#: inc/theme-info/relative-info.php:27
+#, php-format
+msgid "Welcome to %1$s - v"
+msgstr ""
+
+#. translators: %1$s: welcome content
+#: inc/theme-info/relative-info.php:29
+#, php-format
+msgid ""
+"%1$s is a vibrant and dynamic theme designed for unique and creative "
+"bloggers wanting a little modern style thrown in. With a choice of several "
+"blog layouts, 16 dynamic width sidebars, a post slider to showcase your "
+"featured posts of choice, unlimited colours if you want to really dig deep "
+"into personalization, our popular recent posts widget with thumbnails, and "
+"so much more! Relative provides all you need to quickly and easily create a "
+"stunning blog that you and your readers will love.."
+msgstr ""
+
+#: inc/theme-info/relative-info.php:38
+msgid "Getting Started"
+msgstr ""
+
+#: inc/theme-info/relative-info.php:39 inc/theme-info/relative-info.php:250
+msgid "Support"
+msgstr ""
+
+#: inc/theme-info/relative-info.php:40
+msgid "Reviews"
+msgstr ""
+
+#: inc/theme-info/relative-info.php:41 inc/theme-info/relative-info.php:80
+msgid "Changelog"
+msgstr ""
+
+#: inc/theme-info/relative-info.php:42
+msgid "Free VS PRO"
+msgstr ""
+
+#: inc/theme-info/relative-info.php:47
+msgid "Setup Documentation"
+msgstr ""
+
+#: inc/theme-info/relative-info.php:48
+msgid ""
+"To help you get started with the initial setup of this theme and to learn "
+"about the various features, you can check out detailed setup documentation."
+msgstr ""
+
+#. translators: %1$s: theme name
+#: inc/theme-info/relative-info.php:50
+#, php-format
+msgid "View %1$s Tutorials"
+msgstr ""
+
+#: inc/theme-info/relative-info.php:57 inc/theme-info/relative-info.php:59
+msgid "Go to Customizer"
+msgstr ""
+
+#: inc/theme-info/relative-info.php:58
+msgid ""
+"Using the WordPress Customizer you can easily customize every aspect of the "
+"theme."
+msgstr ""
+
+#: inc/theme-info/relative-info.php:67
+msgid "Using a Child Theme"
+msgstr ""
+
+#: inc/theme-info/relative-info.php:68
+msgid ""
+"If you plan to customize this theme, I recommend looking into using a child "
+"theme. To learn more about child themes and why it's important to use one, "
+"check out the WordPress documentation."
+msgstr ""
+
+#: inc/theme-info/relative-info.php:69
+msgid "Child Themes"
+msgstr ""
+
+#: inc/theme-info/relative-info.php:81
+msgid ""
+"I generally recommend you always read the CHANGELOG before updating so that "
+"you can see what was fixed, changed, deleted, or added to the theme."
+msgstr ""
+
+#: inc/theme-info/relative-info.php:91
+msgid "Free Support"
+msgstr ""
+
+#: inc/theme-info/relative-info.php:93
+msgid ""
+"If you experience any problems, please post your questions to support and we "
+"will be more than happy to help you out."
+msgstr ""
+
+#: inc/theme-info/relative-info.php:94
+msgid "Get Free Support"
+msgstr ""
+
+#: inc/theme-info/relative-info.php:100
+msgid "Common Problems"
+msgstr ""
+
+#: inc/theme-info/relative-info.php:102
+msgid ""
+"For quick answers to the most common problems, you can check out the "
+"tutorials which can provide instant solutions and answers."
+msgstr ""
+
+#: inc/theme-info/relative-info.php:103
+msgid "Get Answers"
+msgstr ""
+
+#: inc/theme-info/relative-info.php:113
+msgid "Theme Review"
+msgstr ""
+
+#: inc/theme-info/relative-info.php:115
+msgid ""
+"We would love to request a 5-star rating from you! If so, please visit the "
+"theme page and add your review and your star rating. If you have suggestions "
+"to help improve this theme, please let us know. If you experience problems, "
+"request support and we will be happy to help you out."
+msgstr ""
+
+#: inc/theme-info/relative-info.php:116
+msgid "Add Your Star Rating"
+msgstr ""
+
+#: inc/theme-info/relative-info.php:127
+msgid "Get Relative Pro"
+msgstr ""
+
+#: inc/theme-info/relative-info.php:130
+msgid "Mobile Friendly"
+msgstr ""
+
+#: inc/theme-info/relative-info.php:139
+msgid "Unlimited Colours"
+msgstr ""
+
+#: inc/theme-info/relative-info.php:148
+msgid "Boxed Layouts"
+msgstr ""
+
+#: inc/theme-info/relative-info.php:158
+msgid "Background Image"
+msgstr ""
+
+#: inc/theme-info/relative-info.php:167
+msgid "Built-In Social Menu"
+msgstr ""
+
+#: inc/theme-info/relative-info.php:176
+msgid "Custom Error Page"
+msgstr ""
+
+#: inc/theme-info/relative-info.php:186
+msgid "Blog Layouts"
+msgstr ""
+
+#: inc/theme-info/relative-info.php:195
+msgid "Sidebar Positions"
+msgstr ""
+
+#: inc/theme-info/relative-info.php:204
+msgid "Page Templates"
+msgstr ""
+
+#: inc/theme-info/relative-info.php:214
+msgid "Recent Posts Widget with Thumbnails"
+msgstr ""
+
+#: inc/theme-info/relative-info.php:223
+msgid "Related Posts with Thumbnails"
+msgstr ""
+
+#: inc/theme-info/relative-info.php:232
+msgid "Show or Hide Page Elements"
+msgstr ""
+
+#: inc/theme-info/relative-info.php:259
+msgid "Featured Post Slider"
+msgstr ""
+
+#: inc/theme-info/relative-info.php:260
+msgid ""
+"Showcase featured posts with an amazing built-in FlexSlider from WooCommerce "
+"that includes additional feature settings."
+msgstr ""
+
+#: inc/theme-info/relative-info.php:269
+msgid "Custom Blog Title &amp; Introduction"
+msgstr ""
+
+#: inc/theme-info/relative-info.php:270
+msgid ""
+"WordPress does not have this, but we have added a customizable blog title "
+"and intro option."
+msgstr ""
+
+#: inc/theme-info/relative-info.php:278
+msgid "Blog Thumbnail Creation"
+msgstr ""
+
+#: inc/theme-info/relative-info.php:279
+msgid ""
+"Automatically have post featured images cropped when uploading for up to 9 "
+"blog styled layouts."
+msgstr ""
+
+#: inc/theme-info/relative-info.php:287
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/theme-info/relative-info.php:288
+msgid "Includes WooCommerce with custom styling in the customizer."
+msgstr ""
+
+#: inc/theme-info/relative-info.php:296
+msgid "Custom Page Headers with Images &amp; Titles"
+msgstr ""
+
+#: inc/theme-info/relative-info.php:297
+msgid ""
+"Create amazing page headings with background images and titles and "
+"breadcrumb navigation"
+msgstr ""
+
+#: inc/theme-info/relative-info.php:305
+msgid "Choice of Font Awesome Icons version 4 and 5"
+msgstr ""
+
+#: inc/theme-info/relative-info.php:306
+msgid ""
+"With added the option to use the new Font Awesome icon set version 5, or "
+"stay with v4."
+msgstr ""
+
+#: inc/theme-info/relative-info.php:314 inc/theme-info/relative-info.php:332
+msgid "Image Box Widget"
+msgstr ""
+
+#: inc/theme-info/relative-info.php:315 inc/theme-info/relative-info.php:333
+msgid "Create awesome photo boxes with an overlay with content and a button"
+msgstr ""
+
+#: inc/theme-info/relative-info.php:323
+msgid "Author Info Widget"
+msgstr ""
+
+#: inc/theme-info/relative-info.php:324
+msgid ""
+"Display the author information with photo, position, intro, and social icons."
+msgstr ""
+
+#: inc/theme-info/relative-info.php:341
+msgid "Icon Box Widget"
+msgstr ""
+
+#: inc/theme-info/relative-info.php:342
+msgid ""
+"Create icon boxes using Font Awesome icons and add content with a button"
+msgstr ""
+
+#: inc/theme-info/relative-info.php:350
+msgid "Add Google Fonts"
+msgstr ""
+
+#: inc/theme-info/relative-info.php:351
+msgid "Add up to 2 more Google Fonts."
+msgstr ""
+
+#: inc/theme-info/relative-info.php:359
+msgid "Typography Options"
+msgstr ""
+
+#: inc/theme-info/relative-info.php:360
+msgid ""
+"Includes basic settings for your main text and headings, and a few more "
+"items."
+msgstr ""
+
+#: inc/theme-info/relative-info.php:368
+msgid "Custom Styled Archive Titles"
+msgstr ""
+
+#: inc/theme-info/relative-info.php:369
+msgid "We customized the style of archive titles for tags, categories, etc."
+msgstr ""
+
+#: inc/widgets/recent-posts-widget.php:25
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/widgets/recent-posts-widget.php:31
+msgid "RP: Recent Posts"
+msgstr ""
+
+#: inc/widgets/recent-posts-widget.php:33
+msgid ""
+"A widget that displays your recent posts from all categories or a category "
+"with thumbnails."
+msgstr ""
+
+#: inc/widgets/recent-posts-widget.php:74
+msgid "No Image"
+msgstr ""
+
+#: inc/widgets/recent-posts-widget.php:129
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/recent-posts-widget.php:133
+msgid "Number of posts to show:"
+msgstr ""
+
+#: inc/widgets/recent-posts-widget.php:138
+msgid "Display post date?"
+msgstr ""
+
+#: index.php:36 index.php:81 index.php:128 index.php:173 index.php:217
+msgid "Posts"
+msgstr ""
+
+#: page-templates/template-frontpage.php:58
+msgid "Read More"
+msgstr ""
+
+#. translators: %s: search query.
+#: search.php:24
+#, php-format
+msgid "Search Results for %s"
+msgstr ""
+
+#: searchform.php:12
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:14
+msgctxt "placeholder"
+msgid "Enter Search Term"
+msgstr ""
+
+#: searchform.php:15
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: template-parts/navigation/navigation-blog.php:8
+msgid "Previous page"
+msgstr ""
+
+#: template-parts/navigation/navigation-blog.php:9
+msgid "Next page"
+msgstr ""
+
+#: template-parts/navigation/navigation-blog.php:10
+msgid "Page"
+msgstr ""
+
+#: template-parts/navigation/navigation-post.php:9
+msgid "Next Post"
+msgstr ""
+
+#: template-parts/navigation/navigation-post.php:10
+msgid "Next post:"
+msgstr ""
+
+#: template-parts/navigation/navigation-post.php:12
+msgid "Previous Post"
+msgstr ""
+
+#: template-parts/navigation/navigation-post.php:13
+msgid "Previous post:"
+msgstr ""
+
+#: template-parts/page/content-page.php:28 template-parts/post/content.php:65
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/post/content-grid-sidebar.php:28
+#: template-parts/post/content-grid.php:28 template-parts/post/content.php:30
+msgid "Featured"
+msgstr ""
+
+#: template-parts/post/content-none.php:11
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: %s: add post link
+#: template-parts/post/content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/post/content-none.php:23
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#. translators: %s: post title
+#: template-parts/post/content.php:54
+#, php-format
+msgid "Continue Reading...<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Relative"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://www.bloggingthemestyles.com/free-wordpress-themes/relative/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Relative is a vibrant and dynamic theme designed for unique and creative "
+"bloggers wanting a little modern style thrown in. With a choice of several "
+"blog layouts, 16 dynamic width sidebars, a post slider to showcase your "
+"featured posts of choice, unlimited colours if you want to really dig deep "
+"into personalization, our popular recent posts widget with thumbnails, and "
+"so much more! Relative provides all you need to quickly and easily create a "
+"stunning blog that you and your readers will love. Be sure to read more "
+"About Relative under the Appearance admin menu."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Blogging Theme Styles"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.bloggingthemestyles.com"
+msgstr ""
