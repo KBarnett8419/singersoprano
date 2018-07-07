@@ -1199,6 +1199,7 @@ span.author.vcard>a {
 
 	#contact-img {
 		margin: 5%;
+		width: 45%;
 	}
 }
 
@@ -1267,6 +1268,7 @@ span.author.vcard>a {
 
 	#contact-img {
 		margin: 0 0 0 15%;
+		width: auto;
 	}
 
 	/*.center-page {
