@@ -1077,9 +1077,15 @@ textarea {
   padding: 10px;
 }
 
-.hf-fields-wrap {
+/*.hf-fields-wrap {
 	margin: 0 5%;
+}*/
+
+#nf-form-1-cont {
+	width: 100%;
+	float: none;
 }
+
 
 input[type="submit"] {
     border: 1px solid;
@@ -1181,9 +1187,18 @@ span.author.vcard>a {
 		background-image: url('http://jamilapiracci.com/wp-content/uploads/2018/06/notes.png');
 	}
 
-	.hf-fields-wrap {
+	/*.hf-fields-wrap {
 		margin: 0 5%;
 		float: left;
+	}*/
+
+	#nf-form-1-cont {
+		width: 45%;
+		float: left;
+	}
+
+	#contact-img {
+		margin: 5%;
 	}
 }
 
@@ -1240,8 +1255,13 @@ span.author.vcard>a {
 		width: 300px;
 	}
 
-	.hf-fields-wrap {
+	/*.hf-fields-wrap {
 		margin: 0 0 0 5%;
+		float: left;
+	}*/
+
+	#nf-form-1-cont {
+		width: 50%;
 		float: left;
 	}
 
